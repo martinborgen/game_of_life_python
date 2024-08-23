@@ -1,6 +1,7 @@
 # GAME OF LIFE, Martin juli 2020
 import tkinter as tk
 from tkinter import messagebox as popup
+from tkinter import filedialog
 import os
 
 
