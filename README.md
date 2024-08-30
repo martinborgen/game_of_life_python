@@ -8,3 +8,5 @@ It's not very performant, but it works for reasonably small boards, say 32x32. T
 
 Just running the python file shows a GUI where the user can enter a size. Then by clicking the squares, they turn red - these are alive cells. 
 Also included are some common patterns, such as pulsars and such. 
+
+![image](https://github.com/user-attachments/assets/540b1327-ba59-45d9-b84f-a0e1fb5d254e)
